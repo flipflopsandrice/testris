@@ -1,0 +1,21 @@
+{
+  "name": "Testris",
+  "version": "0.0.1",
+  "authors": [
+    "flipflopsandrice"
+  ],
+  "description": "A basic tetris clone in vanilla Javascript and HTML5",
+  "main": "build/index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "howler.js": "goldfire/howler.js#~1.1.25"
+  }
+}
